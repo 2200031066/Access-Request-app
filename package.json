@@ -1,0 +1,9 @@
+{
+  "name": "access-request-app",
+  "version": "1.0.0",
+  "description": "Small access-request workflow with approvals and an audit history",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
